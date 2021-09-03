@@ -13,5 +13,5 @@
 
 **Second question:** Camera calibration <br />
 You can find the questions and the report in **Report** folder <br />
-You can find results in https://drive.google.com/drive/folders/1An592P_4TXfoFV5iRsbMbQFS2-ONKU4_?usp=sharing <br />
-Data folder is also https://drive.google.com/drive/folders/16JZMFnsGBzhj3HYl-o6TmNaY75l4vdAh?usp=sharing
+<!-- You can find results in https://drive.google.com/drive/folders/1An592P_4TXfoFV5iRsbMbQFS2-ONKU4_?usp=sharing <br />
+Data folder is also https://drive.google.com/drive/folders/16JZMFnsGBzhj3HYl-o6TmNaY75l4vdAh?usp=sharing -->
