@@ -1,0 +1,6 @@
+[path]
+data = Data/
+frames = frames/
+frames_low = frames_low/
+video = video.mp4
+results = Results/
