@@ -14,4 +14,3 @@
 **Second question:** Camera calibration <br />
 You can find the questions and the report in **Report** folder <br />
 You can find results in https://drive.google.com/drive/folders/1An592P_4TXfoFV5iRsbMbQFS2-ONKU4_?usp=sharing <br />
-There are is also more informations in jupyter notebooks
