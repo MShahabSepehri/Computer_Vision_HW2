@@ -8,7 +8,9 @@
   - part 5: creating background video <br />
   - part 6: creating foreground video <br />
   - part 7: creating wider video <br />
-  - part 8: creating shakeless video <br /> <br />
+  - part 8: creating shakeless video <br />
+
+
 **Second question:** Camera calibration <br />
 You can find the questions and the report in **Report** folder <br />
 There are is also more informations in jupyter notebooks
